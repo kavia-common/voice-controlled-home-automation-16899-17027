@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/voice-controlled-home-automation-16899-17027/VoiceProcessingBackend"
+}
